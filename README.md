@@ -2,12 +2,8 @@
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif" align="center" style="width: 40%" />
 </div>  
   
-
 ### <div align="center">Hi,I'm Hani 🙋🏻‍♀️  a full stack developer  </div>  
-  
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
