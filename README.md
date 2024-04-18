@@ -15,12 +15,12 @@
 
 
 ## Connect with me  
+
 <div align="center">
-<a href="https://github.com/hxofficial" target="_blank">
-<p><img src="https://skillicons.dev/icons?i=github"  alt=github style="margin-bottom: 5px;"/></p>
-
-</a>
-<a href="https://linkedin.com/in/haniehmardani" target="_blank">
-   <p><img src="https://skillicons.dev/icons?i=linkedin"  alt=linkedin style="margin-bottom: 5px;"/></p>
-
-</a>  
+    <a href="https://github.com/hxofficial" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="vertical-align: middle; margin-right: 10px;"/>
+    </a>
+    <a href="https://linkedin.com/in/haniehmardani" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="vertical-align: middle;"/>
+    </a>
+</div>
